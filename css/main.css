@@ -378,3 +378,16 @@ form {
   letter-spacing: 0.03em;
   border-style: none;
 }
+
+.f-container {
+  border-top: 1px solid #DFE1E6;
+  padding: 24px 32px 0 32px;
+}
+
+.f-social {
+  justify-content: space-around;
+}
+
+.f-social i {
+  font-size: 20px;
+}
