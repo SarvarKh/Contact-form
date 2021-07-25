@@ -331,14 +331,13 @@ footer {
 }
 
 .call-to-action {
-  font-family: Inter;
   font-style: normal;
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #172B4D;
-  margin: 24px 0px;
+  color: #172b4d;
+  margin: 24px 0;
 }
 
 form {
@@ -347,33 +346,28 @@ form {
 }
 
 .form-part-1 {
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
   line-height: 24px;
-
   display: flex;
   align-items: center;
-
   color: #979493;
 }
 
 .message {
-  background: #FBF8F7;
+  background: #fbf8f7;
 }
 
 .submit-btn {
   padding: 12px;
   margin: 16px auto 124px auto;
-  background: #FF6B00;
+  background: #ff6b00;
   color: #fff;
-  font-family: Inter;
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
   line-height: 24px;
-
   text-align: center;
   letter-spacing: 0.03em;
   border-style: none;
@@ -385,7 +379,7 @@ form {
 }
 
 .f-container {
-  border-top: 1px solid #DFE1E6;
+  border-top: 1px solid #dfe1e6;
   padding: 24px 32px 0 32px;
 }
 
