@@ -379,6 +379,11 @@ form {
   border-style: none;
 }
 
+.submit-btn:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
 .f-container {
   border-top: 1px solid #DFE1E6;
   padding: 24px 32px 0 32px;
