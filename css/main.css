@@ -325,3 +325,8 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+}
