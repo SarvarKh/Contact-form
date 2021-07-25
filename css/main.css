@@ -326,7 +326,55 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
+footer {
+  padding: 24px;
+}
+
+.call-to-action {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  color: #172B4D;
+  margin: 24px 0px;
+}
+
 form {
   display: flex;
   flex-direction: column;
+}
+
+.form-part-1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+
+  display: flex;
+  align-items: center;
+
+  color: #979493;
+}
+
+.message {
+  background: #FBF8F7;
+}
+
+.submit-btn {
+  padding: 12px;
+  margin: 16px auto 124px auto;
+  background: #FF6B00;
+  color: #fff;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+  border-style: none;
 }
