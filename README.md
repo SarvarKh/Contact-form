@@ -8,7 +8,7 @@ Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEV
 
 <div align="center">
   <img src="screenshots/desktop.png?raw=true" width="100%" height="auto"/>
-  <img src="screenshots/mobile.png?raw=true" width="50%" height="auto"/>height="auto"/>
+  <img src="screenshots/mobile.png?raw=true" width="50%" height="auto"/>
 </div>
 
 ## Built With
