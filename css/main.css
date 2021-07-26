@@ -344,6 +344,7 @@ footer {
 form {
   display: flex;
   flex-direction: column;
+  margin-top: 73px;
 }
 
 .form-part-1 {
@@ -354,10 +355,17 @@ form {
   display: flex;
   align-items: center;
   color: #979493;
+  border: none;
+  border-bottom: 1px solid #979493;
+  margin-bottom: 30px;
+  padding-left: 10px;
 }
 
-.message {
+textarea {
   background: #fbf8f7;
+  font-family: "Inter", sans-serif;
+  padding: 16px;
+  border: none;
 }
 
 .submit-btn {
