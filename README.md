@@ -6,8 +6,10 @@
 
 Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
 
-
-![screenshot](./app_screenshot.png)
+<div align="center">
+  <img src="screenshots/desktop.png?raw=true" width="100%" height="auto"/>
+  <img src="screenshots/mobile.png?raw=true" width="50%" height="auto"/>height="auto"/>
+</div>
 
 ## Built With
 
@@ -21,7 +23,7 @@ Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEV
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-    Step 1: git clone https://github.com/SarvarKh/to-do-list.git
+    Step 1: git clone https://github.com/SarvarKh/Contact-form.git
     
     Step 2: open live-server
 
@@ -38,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/SarvarKh/Contact-form/issues).
 
 ## Show your support
 
